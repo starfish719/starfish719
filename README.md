@@ -6,11 +6,9 @@ _The stats are from [github-readme-stats](https://github.com/anuraghazra/github-
 
 I'm a software engineer.
 
-I'm good at develop web application.
+I'm good at develop web application. Sometimes, contribute to OSSs.
 
-Sometimes, contribute to OSSs.
-
-## Skill
+## Skills
 ### Backend
 - Java / PHP / Elixir / Python / Ruby on Rails
 
