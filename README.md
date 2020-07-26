@@ -13,7 +13,7 @@ I'm good at develop web application. Sometimes, contribute to OSSs.
 - Java / PHP / Elixir / Python / Ruby on Rails
 
 ### Frontend
-- JavaScript / TypeScript / jQUery / Backbone.js / Vue.js / React / Jest
+- JavaScript / TypeScript / jQuery / Backbone.js / Vue.js / React / Jest
 
 ### Mobile App
 - Objective-C / Swift
