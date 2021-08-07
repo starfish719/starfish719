@@ -19,7 +19,7 @@ I'm good at develop web application. Sometimes, contribute to OSSs.
 - Objective-C / Swift
 
 ### Etc
-- GitHub Actions / Pull Panda / GraphQL / Enginner Management / Project Management
+- GitHub Actions / Pull Panda / GraphQL / Engineer Management / Project Management
 
 <!--
 **starfish719/starfish719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
